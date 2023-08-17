@@ -32,5 +32,5 @@ public:
         }
     }
 };
-
+//day 2
 #endif /* Costomer_hpp */
